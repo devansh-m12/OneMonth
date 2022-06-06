@@ -1,0 +1,44 @@
+
+
+a {
+  text-decoration: none;
+}
+
+#container {
+    width: 1000px;
+   margin: 0 auto 0 auto;
+}
+#main {
+  background: skyblue;
+  padding: 50px;
+  width: 600px;
+  float: left;
+}
+#sidebar{
+    background: lightcoral;
+    width: 200px;
+    padding: 50px;
+    float: left;
+}
+#footer {
+  background: peachpuff;
+  padding: 50px;
+}
+#header {
+  background: silver;
+  padding: 50px;
+  
+}
+
+img{
+    float: right;
+    margin: 15px;
+}
+
+.clear {
+    clear: both;
+}
+
+p{
+    font: 1em sans-serif; ;
+}
